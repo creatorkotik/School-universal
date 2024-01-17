@@ -2,6 +2,9 @@ body {
   font-family: "Montserrat", sans-serif;
   overflow-x: hidden;
 }
+html {
+  overflow-x: hidden;
+}
 .header {
   color: #fff;
   background-image: url(./img/background.jpg);
